@@ -48,7 +48,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NousadS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7) -->
 
-![Streak](https://streak-stats.demolab.com?user=NousadS&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7)
+[![Streak](https://streak-stats.demolab.com?user=NousadS&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
