@@ -4,7 +4,7 @@
 
 **student · developer · tinkerer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona%20Sans%20VF&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=NixOS+%26+Flakes+driver;Web%20%26%20SvelteKit+dev;Minecraft+server+operator;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona%20Sans%20VF&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Flake-based&20NixOS+driver;SvelteKit+dev;Minecraft+server+operator;Always+learning+something+new)](https://git.io/typing-svg)
 
 </div>
 
